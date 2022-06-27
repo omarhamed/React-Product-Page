@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.width-18 {
+  width: 18rem;
+}
+
+.width-100 {
+  width: 100%;
+}
